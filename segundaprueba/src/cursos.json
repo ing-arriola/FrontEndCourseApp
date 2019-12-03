@@ -1,0 +1,40 @@
+{
+  "cursos":[
+      {
+        "nombre":"Introduccion a WordPress",
+        "codigo":"WP-101",
+        "instructor":"Jaime Arriola",
+        "duracion":"30 horas"
+      },
+      {
+        "nombre":"Moodle para profesores",
+        "codigo":"MO-201",
+        "instructor":"Jaime Arriola",
+        "duracion":"45 horas"
+      },
+      {
+        "nombre":"Desarrollo web J2EE con Struts",
+        "codigo":"WJ-301",
+        "instructor":"Jaime Arriola",
+        "duracion":"80 horas"
+      },
+      {
+        "nombre":"Introduccion a JS",
+        "codigo":"JS-101",
+        "instructor":"Jaime Arriola",
+        "duracion":"100 horas"
+      },
+      {
+        "nombre":"Administracion de servidores L2",
+        "codigo":"AS-201",
+        "instructor":"Jaime Arriola",
+        "duracion":"180 horas"
+      },
+      {
+        "nombre":"Redes de computadoras 2",
+        "codigo":"NW-201",
+        "instructor":"Jaime Arriola",
+        "duracion":"200 horas"
+      }
+  ]
+}
